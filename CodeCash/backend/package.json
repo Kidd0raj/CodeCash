@@ -1,0 +1,1 @@
+{"name": "codecash-backend", "version": "1.0.0", "main": "server.js", "scripts": {"start": "node server.js"}, "dependencies": {"express": "^4.17.1", "jsonwebtoken": "^8.5.1", "mongoose": "^5.10.15"}, "devDependencies": {"mocha": "^8.3.2", "chai": "^4.2.0"}}
